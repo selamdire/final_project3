@@ -1,0 +1,37 @@
+.messages {
+    width: 50%;
+    height: 50%;
+    background-color: azure;
+    border-color: blue;
+}
+
+input {
+    margin: 20px;
+
+}
+.grad {
+    background-image: linear-gradient(to right, red , yellow);
+  }
+  
+
+.grad2 {
+    background-image: radial-gradient(circle, red, yellow, blue);
+  }
+  
+.grad3 {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, yellow (78,9,121,0.34217436974789917) 35%, rgb(156, 143, 148) 100%);
+}
+
+.grad4 {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,71,9,0.34217436974789917) 35%, white (0,212,255,1) 100%);
+}
+
+.grad {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,57,0.34217436974789917) 35%, rgba(0,212,255,1) 100%);
+.gradbackground: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(102,121,9,0.802381194039677) 35%, rgba(0,212,255,1) 100%);
+
+}
